@@ -17,3 +17,11 @@ It implements a domain-centric "Hexagonal" approach of a common web application 
 
 * JDK 11
 * this project uses Lombok, so enable annotation processing in your IDE
+
+
+## 스터디 진행
+
+2022.01 까지 클린 아키텍처 1회독을 우선 목표로 진행한다.
+참여자는 각 챕터 별 `정리 요약` 과 `코드` 에 대한 Pull Request를 만들고, 서로 리뷰하는 것으로 스터디를 진행한다.
+
+### 1주 차 (01 ~ 04) 
