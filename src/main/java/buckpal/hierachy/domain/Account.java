@@ -1,4 +1,4 @@
-package buckpal.domain;
+package buckpal.hierachy.domain;
 
 import lombok.Value;
 

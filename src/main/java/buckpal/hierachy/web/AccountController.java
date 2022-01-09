@@ -1,6 +1,6 @@
-package buckpal.web;
+package buckpal.hierachy.web;
 
-import buckpal.domain.AccountService;
+import buckpal.hierachy.domain.AccountService;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
